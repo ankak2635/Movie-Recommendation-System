@@ -1,5 +1,5 @@
 # Movie-Recommendation-System
-A movie recommendation system - It takes one movie name as user input and recommends 10 movies which the user might like based on his/her input.
+A movie recommendation system - It takes one movie name as user input and recommends 10 movies which the user might like based on his/her input (In this notebook the user input is - Pulp Fiction). 
 
 **Dataset** - The dataset used contains around 5000 movies along with details like cast, crew, genere, budget etc.
 
